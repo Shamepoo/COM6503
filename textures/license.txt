@@ -1,0 +1,16 @@
+Online images:
+polished_metal.jpg https://www.teahub.io/viewwp/mwibio_steel-texture-polished-metal-texture-metallic-gray-high/
+wood.jpg https://www.vividdoors.co.uk/external-doors/understanding-the-different-types-of-wooden-doors
+wood_specular.jpg https://www.pinterest.co.uk/pin/45599014952335727/
+keyboard.jpg https://support.apple.com/en-us/HT201794
+metal_specular http://www.wallpaperhdc.com/polished-metal-assignment.textures/x
+wallpaper.jpg https://www.pinterest.com/pin/822821794398992113/
+
+Self images:
+black.jpg
+white.jpg
+whiteboard.jpg
+pic1.jpg
+pic2.jpg
+pic3.jpg
+scene.jpg
